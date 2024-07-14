@@ -1,9 +1,7 @@
 # Hello, I'm Rishikesh Jadhav
 <a href="https://linkedin.com/in/rishikesh-vishnu-jadhav/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Dedicated and highly motivated recent graduate with a Master's in Science in Computer Application and a foundational certificate in Cybersecurity from Google Coursera. Equipped with a strong understanding of cybersecurity principles, network security, threat analysis, and risk assessment. Proven ability in Android development with practical experience in integrating APIs and building financial applications. Adept at problem-solving, with excellent analytical skills and a passion for learning and applying new technologies. Seeking to start a career as a Cybersecurity Analyst to leverage my technical skills and contribute to organizational security efforts.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
