@@ -1,4 +1,4 @@
-<img src="https://github.com/Ashura-22/Ashura-22/blob/main/Final.jpg"/>
+<img src="https://github.com/Ashura-22/Ashura-22/blob/main/Final.jpg"/><br><br>
 # Hello, I'm Rishikesh Jadhav
 <a href="https://linkedin.com/in/rishikesh-vishnu-jadhav/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
