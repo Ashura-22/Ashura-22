@@ -3,7 +3,7 @@
 # Hello, I'm Rishikesh Jadhav
 📬 **Let's Connect**
 <br><br>
-<a href="https://linkedin.com/in/rishikesh-vishnu-jadhav/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a><t></t>
+<a href="https://linkedin.com/in/rishikesh-vishnu-jadhav/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>&nbsp&nbsp
 <a href="https://medium.com/@rishiedu23"><img src="https://img.shields.io/badge/-Medium-FFFFFF?&style=for-the-badge&logo=Medium&logoColor=12100E" /></a>
 <a href="https://www.credly.com/users/rishikesh-v-jadhav"><img src="https://img.shields.io/badge/-Credly-F26B21?&style=for-the-badge&logo=Credly&logoColor=white" /></a>
 
