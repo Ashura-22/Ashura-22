@@ -1,6 +1,7 @@
 <img src="https://github.com/Ashura-22/Ashura-22/blob/main/Final.jpg"/><br><br>
 # Hello, I'm Rishikesh Jadhav
-<a href="https://linkedin.com/in/rishikesh-vishnu-jadhav/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/rishikesh-vishnu-jadhav/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
+</a>
 <a href="https://medium.com/@rishiedu23"><img src="https://img.shields.io/badge/-Medium-FFFFFF?&style=for-the-badge&logo=Medium&logoColor=12100E" />
 <a href="https://www.credly.com/users/rishikesh-v-jadhav"><img src="https://img.shields.io/badge/-Credly-F26B21?&style=for-the-badge&logo=Credly&logoColor=white" />
 </a>
