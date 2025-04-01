@@ -40,7 +40,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Wazuh-005C99?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-005C99?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABFklEQVR42mNgoBkw4pXJ1KlTpz9f2LBhww8fPvxEaDQaUP3+/JkhIv8zMDDAD4GJPL9I2bN/f//f2A+fPky+PPPPx0Xh4gYGBgBiBFMgCZYJwxS+/fv/1+/fp1aRUVFRWDeWQDKAJlhHGCBfLJly7avXu3Hjh2PVnbt2pVMTU3NtsCwoKCg/+Pjo9EwmGoApAJlhHGAB5LJ+cnKyePXv6hISEhLjZ6tSpY5BxJYDyBZDDOAI8lH5UUlF//fq1//7u7v4ffv2KHdPugIVgLIFkMM4AjaUcHR2tnj17ttvR0VH+xMTEoFKWlpbZs7cGr7BR5giWAcgWQwzgYbZTQUFADiBybYmXpa2AAAAABJRU5ErkJggg==" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
