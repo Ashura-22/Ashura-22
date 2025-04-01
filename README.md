@@ -50,6 +50,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
 <a href="https://www.credly.com/badges/a02caf2c-5bf8-4e11-be1d-d5f7ef380fb1/linked_in_profile"><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-D2232A?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/139cbc60-1b68-4c25-b863-a85dd28e6f55/linked_in_profile"><img src="https://img.shields.io/badge/-CyberOps%20Associate-007ACC?&style=for-the-badge&logo=Cisco&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-FF9900?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
 <!--img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /-->
