@@ -1,14 +1,8 @@
 <img src="https://github.com/Ashura-22/Ashura-22/blob/main/Final.jpg"/><br><br>
 # Hello, I'm Rishikesh Jadhav
-<a href="https://linkedin.com/in/rishikesh-vishnu-jadhav/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
-</a>
-<a href="https://medium.com/@rishiedu23"><img src="https://img.shields.io/badge/-Medium-FFFFFF?&style=for-the-badge&logo=Medium&logoColor=12100E" />
-<a href="https://www.credly.com/users/rishikesh-v-jadhav"><img src="https://img.shields.io/badge/-Credly-F26B21?&style=for-the-badge&logo=Credly&logoColor=white" />
-</a>
-
-
-
-</a>
+<a href="https://linkedin.com/in/rishikesh-vishnu-jadhav/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+<a href="https://medium.com/@rishiedu23"><img src="https://img.shields.io/badge/-Medium-FFFFFF?&style=for-the-badge&logo=Medium&logoColor=12100E" /></a>
+<a href="https://www.credly.com/users/rishikesh-v-jadhav"><img src="https://img.shields.io/badge/-Credly-F26B21?&style=for-the-badge&logo=Credly&logoColor=white" /></a>
 
 Dedicated and highly motivated recent graduate with a Master's in Science in Computer Application and a foundational certificate in Cybersecurity from Google Coursera. Equipped with a strong understanding of cybersecurity principles, network security, threat analysis, and risk assessment. Proven ability in Android development with practical experience in integrating APIs and building financial applications. Adept at problem-solving, with excellent analytical skills and a passion for learning and applying new technologies. Seeking to start a career as a Cybersecurity Analyst to leverage my technical skills and contribute to organizational security efforts.
 
