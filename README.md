@@ -40,10 +40,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### SIEM
 <div>
-    <a href="https://wazuh.com/" target="_blank">
     <img src="https://img.shields.io/badge/Wazuh-005C99?style=for-the-badge" alt="Wazuh Badge" />
-    <img src="https://wazuh.com/wp-content/uploads/2023/06/wazuh-logo.png" alt="Wazuh Logo" height="28">
-</a>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
