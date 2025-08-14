@@ -9,7 +9,7 @@
 
 ## 🎯 My TryHackMe Progress
 <p align="left">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Enigma10.png" alt="Your Image Badge" />
+  <a href="https://tryhackme.com/p/Enigma10"><img src="https://tryhackme-badges.s3.amazonaws.com/Enigma10.png" alt="Your Image Badge" /></a>
 </p>
 
 ---
