@@ -7,7 +7,12 @@
 <a href="https://medium.com/@rishiedu23"><img src="https://img.shields.io/badge/-Medium-FFFFFF?&style=for-the-badge&logo=Medium&logoColor=12100E" /></a>
 <a href="https://www.credly.com/users/rishikesh-v-jadhav"><img src="https://img.shields.io/badge/-Credly-F26B21?&style=for-the-badge&logo=Credly&logoColor=white" /></a>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3166931" style='border:none;'></iframe>
+## 🎯 My TryHackMe Progress
+<p align="left">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Enigma10.png" alt="TryHackMe Badge" />
+</p>
+
+---
 
 ## 🔥 About Me
 Dedicated and highly motivated cybersecurity professional with a Master's in Science (Computer Applications) and hands-on experience in **SOC automation, vulnerability management, and penetration testing**. Passionate about **threat analysis, ethical hacking, and security research**. Skilled in **Python, Splunk, Wazuh, Nessus, and cloud security (AWS, Azure).**
