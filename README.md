@@ -7,18 +7,12 @@
 <a href="https://medium.com/@rishiedu23"><img src="https://img.shields.io/badge/-Medium-FFFFFF?&style=for-the-badge&logo=Medium&logoColor=12100E" /></a>
 <a href="https://www.credly.com/users/rishikesh-v-jadhav"><img src="https://img.shields.io/badge/-Credly-F26B21?&style=for-the-badge&logo=Credly&logoColor=white" /></a>
 
-## 🎯 My TryHackMe Progress
+## 🎯 My Progress
 <p align="left">
   <a href="https://tryhackme.com/p/Enigma10"><img src="https://tryhackme-badges.s3.amazonaws.com/Enigma10.png" alt="Your Image Badge" /></a>
   <a href="https://cyberdefenders.org/p/Enigma10"><img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Enigma10.png" width="300" />
 </a>
 </p>
-
-## 🎯 My TryHackMe Progress
-<p align="left">
-  
-</p>
-
 
 ---
 
