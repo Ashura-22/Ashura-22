@@ -10,12 +10,13 @@
 ## 🎯 My TryHackMe Progress
 <p align="left">
   <a href="https://tryhackme.com/p/Enigma10"><img src="https://tryhackme-badges.s3.amazonaws.com/Enigma10.png" alt="Your Image Badge" /></a>
+  <a href="https://cyberdefenders.org/p/Enigma10"><img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Enigma10.png" width="300" />
+</a>
 </p>
 
 ## 🎯 My TryHackMe Progress
 <p align="left">
-  <a href="https://cyberdefenders.org/p/Enigma10"><img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Enigma10.png" width="300" />
-</a>
+  
 </p>
 
 
