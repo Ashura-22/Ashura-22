@@ -11,10 +11,10 @@
 <br/>
 
 <a href="https://rishikeshjadhav.com"><img src="https://img.shields.io/badge/Fort_._Zero-0f0f12?style=flat-square&logo=firefoxbrowser&logoColor=34d399&labelColor=09090b" /></a>
-<a href="https://linkedin.com/in/rishikesh-vishnu-jadhav/"><img src="https://img.shields.io/badge/LinkedIn-0f0f12?style=flat-square&logo=linkedin&logoColor=34d399&labelColor=09090b" /></a>
-<a href="https://medium.com/@rishiedu23"><img src="https://img.shields.io/badge/Medium-0f0f12?style=flat-square&logo=medium&logoColor=34d399&labelColor=09090b" /></a>
-<a href="https://www.credly.com/users/rishikesh-v-jadhav"><img src="https://img.shields.io/badge/Credly-0f0f12?style=flat-square&logo=credly&logoColor=34d399&labelColor=09090b" /></a>
-<a href="https://medium.com/@rishiedu23"><img src="https://img.shields.io/badge/Email-0f0f12?style=flat-square&logo=maildotru&logoColor=34d399&labelColor=09090b" /></a>
+<a href="https://linkedin.com/in/rishikesh-v-jadhav"><img src="https://img.shields.io/badge/LinkedIn-0f0f12?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzM0ZDM5OSI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg%3D%3D&labelColor=09090b" /></a>
+<a href="https://medium.com/@rishikeshjadhav"><img src="https://img.shields.io/badge/Medium-0f0f12?style=flat-square&logo=medium&logoColor=34d399&labelColor=09090b" /></a>
+<a href="https://credly.com/users/rishikeshjadhav"><img src="https://img.shields.io/badge/Credly-0f0f12?style=flat-square&logo=credly&logoColor=34d399&labelColor=09090b" /></a>
+<a href="mailto:rishiedu23@gmail.com"><img src="https://img.shields.io/badge/Email-0f0f12?style=flat-square&logo=gmail&logoColor=34d399&labelColor=09090b" /></a>
 <img src="https://komarev.com/ghpvc/?username=Ashura-22&style=flat-square&color=34d399&labelColor=09090b&label=visitors" />
 
 </div>
@@ -59,34 +59,13 @@ $ git log --oneline --author="rishikesh"
 
 ## `// stack`
 
-**offensive**
-<br/>
-<img src="https://img.shields.io/badge/Burp_Suite-0f0f12?style=flat-square&logo=portswigger&logoColor=34d399&labelColor=09090b" />
-<img src="https://img.shields.io/badge/Metasploit-0f0f12?style=flat-square&logo=metasploit&logoColor=34d399&labelColor=09090b" />
-<img src="https://img.shields.io/badge/Nmap-0f0f12?style=flat-square&logo=nmap&logoColor=34d399&labelColor=09090b" />
-<img src="https://img.shields.io/badge/Netcat-0f0f12?style=flat-square&logo=gnu&logoColor=34d399&labelColor=09090b" />
-
-**vulnerability management**
-<br/>
-<img src="https://img.shields.io/badge/Qualys_VMDR-0f0f12?style=flat-square&logo=qualys&logoColor=34d399&labelColor=09090b" />
-<img src="https://img.shields.io/badge/Nessus-0f0f12?style=flat-square&logo=tenable&logoColor=34d399&labelColor=09090b" />
-<img src="https://img.shields.io/badge/Wiz-0f0f12?style=flat-square&logo=wiz&logoColor=34d399&labelColor=09090b" />
-<img src="https://img.shields.io/badge/HackerOne-0f0f12?style=flat-square&logo=hackerone&logoColor=34d399&labelColor=09090b" />
-
-**defensive · siem**
-<br/>
-<img src="https://img.shields.io/badge/Splunk-0f0f12?style=flat-square&logo=splunk&logoColor=34d399&labelColor=09090b" />
-<img src="https://img.shields.io/badge/Wazuh-0f0f12?style=flat-square&logo=wazuh&logoColor=34d399&labelColor=09090b" />
-<img src="https://img.shields.io/badge/TheHive-0f0f12?style=flat-square&logo=apachehive&logoColor=34d399&labelColor=09090b" />
-<img src="https://img.shields.io/badge/Wireshark-0f0f12?style=flat-square&logo=wireshark&logoColor=34d399&labelColor=09090b" />
-<img src="https://img.shields.io/badge/Suricata-0f0f12?style=flat-square&logo=suricata&logoColor=34d399&labelColor=09090b" />
-
-**languages · os · automation**
-<br/>
-<img src="https://img.shields.io/badge/Python-0f0f12?style=flat-square&logo=python&logoColor=34d399&labelColor=09090b" />
-<img src="https://img.shields.io/badge/Bash-0f0f12?style=flat-square&logo=gnubash&logoColor=34d399&labelColor=09090b" />
-<img src="https://img.shields.io/badge/Linux-0f0f12?style=flat-square&logo=linux&logoColor=34d399&labelColor=09090b" />
-<img src="https://img.shields.io/badge/LLM_Security-0f0f12?style=flat-square&logo=openai&logoColor=34d399&labelColor=09090b" />
+```bash
+offensive        →  burp suite · metasploit · nmap · netcat
+vuln mgmt        →  qualys vmdr · nessus · wiz · hackerone
+defensive · siem →  splunk · wazuh · thehive · wireshark · suricata
+languages · os   →  python · bash · linux
+ai · automation  →  llm security · prompt injection · security tooling
+```
 
 ## `// certifications`
 
@@ -110,12 +89,12 @@ oscp              offensive security certified pro    # target 2027
 > **🍯 LureBox — T-Pot Honeypot Deployment & Investigation** &nbsp;·&nbsp; `blue team`
 > Deployed a multi-protocol honeypot on DigitalOcean, captured live attacker traffic —
 > credentials sprayed, tools fingerprinted, geo-distribution mapped.
-> `T-Pot` `Suricata` `Cowrie` `ELK` &nbsp;→&nbsp; [writeup](https://rishikeshjadhav.com/projects)
+> `T-Pot` `Suricata` `Cowrie` `ELK` &nbsp;→&nbsp; [writeup](https://rishikeshjadhav.medium.com/lurebox-t-pot-honeypot-deployment-on-digital-ocean-and-investigation-abea00d955b0)
 
 > **🔍 Windows Server 2022 — Scanning & Hardening** &nbsp;·&nbsp; `vuln mgmt`
 > End-to-end VM hardening — authenticated Nessus scans, CIS benchmark mapping,
 > remediated SWEET32 & SMB misconfigs, re-scanned to verify the drop in criticals.
-> `Nessus` `CIS Benchmarks` `PowerShell` &nbsp;→&nbsp; [writeup](https://rishikeshjadhav.com/projects)
+> `Nessus` `CIS Benchmarks` `PowerShell` &nbsp;→&nbsp; [writeup](https://rishikeshjadhav.medium.com/project-walkthrough-vulnerability-scanning-and-hardening-a-windows-server-2022-vm-using-nessus-4d4ce3da59bb)
 
 > **🤖 Exploit Intel — AI-Powered PoC Aggregator** &nbsp;·&nbsp; `offensive AI` `// in progress`
 > LLM-assisted tool aggregating public exploit availability across GitHub, ExploitDB
@@ -130,7 +109,7 @@ $ ls -t ~/blog | head
 2025-01-20  scanning & hardening a windows server 2022 vm with nessus
 2024-11-05  building a SOC automation pipeline — wazuh · shuffle · thehive
 ```
-&nbsp;&nbsp;→&nbsp; [all posts](https://rishikeshjadhav.com/blog) &nbsp;·&nbsp; [medium](https://medium.com/@rishiedu23)
+&nbsp;&nbsp;→&nbsp; [all posts](https://rishikeshjadhav.com/blog) &nbsp;·&nbsp; [medium](https://medium.com/@rishikeshjadhav)
 
 ## `// currently` &nbsp;`June 2026`
 
