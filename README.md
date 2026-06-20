@@ -144,10 +144,10 @@ $ ls -t ~/blog | head
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ashura-22&show_icons=true&hide_border=true&count_private=true&bg_color=09090b&title_color=34d399&text_color=fafafa&icon_color=34d399" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ashura-22&hide_border=true&background=09090b&stroke=27272a&ring=34d399&fire=34d399&currStreakLabel=34d399&currStreakNum=fafafa&sideLabels=fafafa&sideNums=fafafa&dates=71717a" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ashura-22&show_icons=true&hide_border=true&count_private=true&bg_color=09090b&title_color=34d399&text_color=fafafa&icon_color=34d399" height="170" alt="github stats" />
+<img src="https://streak-stats.demolab.com?user=Ashura-22&hide_border=true&background=09090b&stroke=27272a&ring=34d399&fire=34d399&currStreakLabel=34d399&currStreakNum=fafafa&sideLabels=fafafa&sideNums=fafafa&dates=71717a" height="170" alt="github streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashura-22&bg_color=09090b&color=fafafa&line=34d399&point=34d399&area=true&area_color=34d399&hide_border=true&title_color=34d399" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashura-22&bg_color=09090b&color=fafafa&line=34d399&point=34d399&area=true&area_color=34d399&hide_border=true&title_color=34d399" width="98%" alt="contribution activity graph" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashura-22/Ashura-22/output/github-contribution-grid-snake-dark.svg" />
